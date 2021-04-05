@@ -39,7 +39,7 @@ html, body {
 	}
 	/*showcase*/
 #showcase{
-	background: #fff url("../img/showcase.jpg") no-repeat center center/cover;
+	background: #fff url("showcase.jpg") no-repeat center center/cover;
 	height: 100vh;
 	color: #fff;
 }
@@ -79,7 +79,7 @@ html, body {
 	line-height: 1;
 }
 .logo{
-	background: url("../img/icon.png") no-repeat center center/cover;
+	background: url("icon.png") no-repeat center center/cover;
 	width: 50px;
 	height: 50px;
 	text-align: left;
@@ -147,7 +147,7 @@ html, body {
 	flex: 1;
 }
 #who .who-img{
-	background: url("../img/people.jpg") no-repeat center center/cover;
+	background: url("people.jpg") no-repeat center center/cover;
 }
 .list{
 	margin: 0;
